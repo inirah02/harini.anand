@@ -28,8 +28,8 @@ menu:
           weight: 6
 
 params:
-    description: "I work at Niramai Health Analytix, a deep tech startup focusing on Breast Cancer, and used ML frameworks as a Research Intern at the Indian Institute of Technology Hyderabad, to predict gene regulatory networks. I have previously worked on building cognitive tools for reducing the onset of Dementia as a student entrepreneur. I led the largest technical community on campus, held workshops, and gave talks on Machine Learning, NLP, and Data Science. "
-    author: Harini Anand
+    description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs."
+    author: Moritz-Maria von Igelfeld
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -55,11 +55,11 @@ params:
     profileMode:
           enabled: true
           title: Harini Anand
-          subtitle: "I’m an enthusiastic undergraduate pursuing Computer Science interested in the fields of Computational Cognition, Machine Learning and Data Science. I want to delve deep into the intersection of Healthcare and AI. I’m also a curious creative writer, exploring different niches with my kaleidoscopic perspective."
+          subtitle: "I’m an enthusiastic undergraduate pursuing Computer Science interested in the fields of Computational Cognition, Machine Learning and Data Science. I want to delve deep into the intersection of Healthcare and AI. I’m also a curious creative writer, exploring different niches with my kaleidoscopic perspective. I work at Niramai Health Analytix, a deep tech startup focusing on Breast Cancer and used ML frameworks as a Research Intern at the Indian Institute of Technology Hyderabad, to predict gene regulatory networks. I have previously worked on building cognitive tools for reducing the onset of Dementia as a student entrepreneur. I led the largest technical community on campus, held workshops, and gave talks on Machine Learning, NLP, and Data Science.  I’ve been admitted to top summer schools at Oxford University, London, and Massachusetts Institute of Technology which specialize in the applications of AI in Healthcare. I am a Google KaggleX Mentee, and an AWS Scholar, and have been awarded merit scholarships. I am a strong advocate for representation in STEM and recognized as a High Impact APAC Ambassador for the Women In Data Science Community, an initiative by Stanford University. "
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Moritz-Maria von Igelfeld
+          imageTitle: Harini Anand
           buttons:
             - name: Papers
               url: papers/
@@ -80,7 +80,7 @@ params:
         - name: cv
           url: cv.pdf
         - name: Email
-          url: harini.anand@gmail.com
+          url: mailto:moritz.maria.von.igelfeld@gmail.com
         - name: Zoom
           url: https://www.zoom.us/my/igelfeld
         - name: Location
@@ -88,11 +88,15 @@ params:
         - name: Office Hours
           url: officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=uSPqOjEAAAAJ&hl=en
+          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
         - name: GitHub
-          url: https://github.com/inirah02
+          url: https://github.com/pmichaillat
+        - name: Substack
+          url: https://pmichaillat.substack.com
+        - name: YouTube
+          url: https://www.youtube.com/@alexandermccallsmithoffici9000
         - name: Twitter
-          url: https://twitter.com/anscombes4tet
+          url: https://twitter.com/McCallSmith
 
     assets:
         disableScrollBarStyle: true
@@ -100,7 +104,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Harini Anand"
+      text: "Moritz-Maria von Igelfeld"
       icon: favicon.ico
       iconHeight: 18
 
