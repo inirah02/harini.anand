@@ -28,8 +28,8 @@ menu:
           weight: 6
 
 params:
-    description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs."
-    author: Moritz-Maria von Igelfeld
+    description: "I work at Niramai Health Analytix, a deep tech startup focusing on Breast Cancer, and used ML frameworks as a Research Intern at the Indian Institute of Technology Hyderabad, to predict gene regulatory networks. I have previously worked on building cognitive tools for reducing the onset of Dementia as a student entrepreneur. I led the largest technical community on campus, held workshops, and gave talks on Machine Learning, NLP, and Data Science. "
+    author: Harini Anand
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -88,15 +88,11 @@ params:
         - name: Office Hours
           url: officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: https://scholar.google.com/citations?user=uSPqOjEAAAAJ&hl=en
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@alexandermccallsmithoffici9000
+          url: https://github.com/inirah02
         - name: Twitter
-          url: https://twitter.com/McCallSmith
+          url: https://twitter.com/anscombes4tet
 
     assets:
         disableScrollBarStyle: true
@@ -104,7 +100,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Harini Anand"
       icon: favicon.ico
       iconHeight: 18
 
